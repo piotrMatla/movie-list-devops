@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57021c0c-f22d-4019-9194-e6f561d4ec4f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +47,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "feature/movie-by-id",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/HP/OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie/studia/sem v/devops/movie-list-devops",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",

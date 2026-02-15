@@ -14,6 +14,7 @@ Prosta aplikacja webowa do zarządzania listą filmów, stworzona na potrzeby pr
 
 - `GET /` - Strona główna z informacjami o API
 - `GET /movies` - Lista filmów
+- `GET /movies/:id` - Pojedynczy film po ID
 
 ## Instalacja i uruchomienie
 
