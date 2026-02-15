@@ -13,7 +13,8 @@ app.get('/', (req, res) => {
         message: 'Welcome to Movie List API',
         endpoints: {
             home: '/',
-            movies: '/movies'
+            movies: '/movies',
+            movieById: '/movies/:id'
         }
     });
 });
@@ -24,5 +25,19 @@ app.get('/movies', (req, res) => {
         movies: movies
     });
 });
+
+app.get('/movies/:id', (req, res) => {
+    const movieId = parseInt(req.params.id);
+    const movie = movies.find(m => m.id === movieId);
+
+    if (!movie) {
+        return res.status(404).json({
+            error: 'Movie not found',
+            id: movieId
+        });
+    }
+
+    res.json(movie);
+})
 
 module.exports = app;
