@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57021c0c-f22d-4019-9194-e6f561d4ec4f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="Dockerfile" />
       </list>
     </option>
   </component>
@@ -45,7 +50,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "feature/azure-deployment",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "feature/docker-containerization",
     "last_opened_file_path": "C:/Users/HP/OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie/studia/sem v/devops/movie-list-devops",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -81,6 +87,7 @@
       <updated>1771159148461</updated>
       <workItem from="1771159148473" duration="642000" />
       <workItem from="1771160204467" duration="1994000" />
+      <workItem from="1771174482372" duration="2609000" />
     </task>
     <servers />
   </component>
